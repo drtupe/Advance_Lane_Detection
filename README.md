@@ -87,7 +87,7 @@ All these pixels are put together in a list of their x and y coordinates. This i
 
 <img src="examples/histogram_window.jpg">
 
-##### Lane line detection based on previous cycle
+##### Lane line detection based on previous cycle:
 
 The lane detection using histogram is somewhat a time consuming process. So to speed this process, I used lane line search from one video frame to the next frame. Information from the previous video frame is used to detect the line in current frame. For this we will use polynomial fit for the lane lines of the previous image to define the search area. Following is the result obtained from using this techique.
 
