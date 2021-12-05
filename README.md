@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-The goals / steps of this project are the following:
+The goals/steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
